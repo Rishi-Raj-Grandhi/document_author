@@ -10,7 +10,7 @@ Frontend (React + Vite) hosted on Vercel:
 
 Backend (FastAPI) hosted on Render:
 👉 https://document-author.onrender.com
-
+(it might take little time for the first operation you do , patience because render stops the application due to inactivity)
 This deployment enables seamless communication between the FastAPI backend and the Vercel-hosted frontend using live APIs.
 ## 📋 Table of Contents
 
